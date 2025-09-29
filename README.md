@@ -45,3 +45,6 @@ Variáveis opcionais:
 2. Instalar dependências:  
    ```bash
    pip install -r requirements.txt
+3. Executar o arquivo main.py:
+   ```bash
+   python3 main.py
